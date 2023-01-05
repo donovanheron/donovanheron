@@ -9,8 +9,8 @@
 <h2 align="center"> Áreas de conhecimento </h2>  
 :heavy_check_mark: C++
 :heavy_check_mark: Lua
-:hourglass_flowing_sand: HTML
-:hourglass_flowing_sand: CSS
+:heavy_check_mark: HTML
+:heavy_check_mark: CSS
 
 
 
