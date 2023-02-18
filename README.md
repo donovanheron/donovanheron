@@ -2,7 +2,7 @@
 <h2 align="center"> Sejam muito bem-vindos! :wine_glass::moyai: </h2>  
 
 
-- :mortar_board: Sou professor de Física e Matemática que está se aperfeiçoando no mundo da programação.
+- :mortar_board: Sou professor de Física que está se aperfeiçoando no mundo da programação.
 - :closed_book: Estou participando do Grupo de Estudo Formadores em Ação.
 - :email:  Meu e-mail é donovan.zanone@escola.pr.gov.br
 
